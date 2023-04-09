@@ -1,0 +1,14 @@
+target/
+project/boot/
+**/project/project
+**/.bloop
+.bsp/
+*/metals.sbt
+.metals
+.vscode/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+.idea
